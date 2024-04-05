@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh826" alt="rishabh826" /></a> </p>
 
-- 🔭 I’m currently working on [Jaggery world](https://github.com/Rishabh826/Jaggery-world)
+- 🔭 I’m currently working on [Job-portal](https://github.com/Rishabh826/Jaggery-world)
 
 - 🌱 I’m currently learning **React.js ,Next.js**
 
